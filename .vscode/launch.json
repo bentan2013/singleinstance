@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/app/bin/Debug/netcoreapp3.1/app.dll",
-            "args": [],
+            "args": ["earth.kml"],
             "cwd": "${workspaceFolder}/app",
             "console": "internalConsole",
             "stopAtEntry": false
